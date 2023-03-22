@@ -1,0 +1,9 @@
+Create a python dictionary for the following input, which is a medical paper abstract. Only populate the fields in the example, do not create new fields. 
+
+Example: 
+
+{'WAS ABOUT A TREATMENT' : 'YES',
+'NAME OF TREATMENT' :'ursodeoxycholic acid',
+'AIM OF TREATMENT':prevent gallstone formation}
+
+input:
