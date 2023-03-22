@@ -11,7 +11,6 @@ def get_academic_summary(input_text: str):
 
 
 
-
 def query_gpt_3_5_turbo(main_text: str, query_primer: str):
     response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
@@ -22,6 +21,8 @@ def query_gpt_3_5_turbo(main_text: str, query_primer: str):
     )
     return response
 
+# def query_davinci(preprompt: str, main_prompt: str):
+#     return
 
 def get_whether_or_not_paper_is_clinical_study(abstract:str):
     query_primer = "What follows is an abstract drawn from a paper published on PubMed. Determine whether the paper describes a clinical study or not. Return '1' if it does, or '0' for all other kinds of paper. "
@@ -41,11 +42,11 @@ def query_model(query):
     query_args.update({"prompt": query})
     return openai.Completion.create(**query_args)
 
-def get_davinci(input_string: str):
-    pre_prompt = "All houses have corners"
+def get_davinci(pre_prompt: str, input_string: str):
+    prompt = pre_prompt + input_string
     response_davinci = openai.ChatCompletion.create(
     model="text-davinci-003",
-    prompt= pre_prompt + input_string,
+    prompt= prompt,
     temperature=0.7,
     max_tokens=60,
     top_p=1.0,
