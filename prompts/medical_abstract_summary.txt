@@ -1,9 +1,8 @@
 
-Create a table entry for the following input, which is a medical paper abstract. 
+Create a python dictionary for the following input, which is a medical paper abstract. 
 
 Example: 
 
-WAS ABOUT A TREATMENT | NAME OF TREATMENT | AIM OF TREATMENT
-YES | ursodeoxycholic acid | prevent gallstone formation
+{'WAS ABOUT A TREATMENT' : 'YES', 'NAME OF TREATMENT' :'ursodeoxycholic acid', 'AIM OF TREATMENT':prevent gallstone formation}
 
 input:

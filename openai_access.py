@@ -44,16 +44,26 @@ def query_model(query):
 
 def get_davinci(pre_prompt: str, input_string: str):
     prompt = pre_prompt + input_string
-    response_davinci = openai.ChatCompletion.create(
+    response_davinci = openai.Completion.create(
     model="text-davinci-003",
     prompt= prompt,
     temperature=0.7,
-    max_tokens=60,
+    max_tokens=300,
     top_p=1.0,
     frequency_penalty=0.0,
     presence_penalty=1
     )
     return response_davinci
+
+def get_prompt(prompt_name: str):
+    prompt_name += '.txt'
+    path = pathlib.Path('prompts') / prompt_name
+    print(f'Path is {path}')
+    with open(path, 'rb') as file:
+        prompt = file.read()
+    return str(prompt)
+    
+
 
 def get_message_from_response(response):
     return response['choices'][0]['text']
