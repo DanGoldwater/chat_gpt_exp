@@ -58,7 +58,6 @@ def get_davinci(pre_prompt: str, input_string: str):
 def get_prompt(prompt_name: str):
     prompt_name += '.txt'
     path = pathlib.Path('prompts') / prompt_name
-    print(f'Path is {path}')
     with open(path, 'rb') as file:
         prompt = file.read()
     return str(prompt)

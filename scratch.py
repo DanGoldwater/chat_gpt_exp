@@ -44,3 +44,5 @@ response = openai.Completion.create(
   presence_penalty=0.0,
   stop=["\n"]
 )
+#%%
+print( os.environ.get("OPEN_AI_API_KEY"))
