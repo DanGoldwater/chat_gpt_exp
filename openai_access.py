@@ -1,4 +1,5 @@
 import os
+import tiktoken
 import json
 import pathlib
 import openai
@@ -48,7 +49,7 @@ def get_davinci(pre_prompt: str, input_string: str):
     model="text-davinci-003",
     prompt= prompt,
     temperature=0.7,
-    max_tokens=300,
+    max_tokens=900,
     top_p=1.0,
     frequency_penalty=0.0,
     presence_penalty=1
@@ -75,3 +76,27 @@ def get_model_from_config():
     with open(pathlib.Path('config.json'), 'r') as file:
         config = json.load(file)
     return config
+
+
+
+
+def break_into_equal_chunks(text, max_tokens=3000):
+    text = text.replace('\n', ' ')
+    encoder = tiktoken.get_encoding('cl100k_base')
+    tokens = encoder.encode(text)
+    if len(tokens) < max_tokens:
+        return [text]
+
+    num_chunks = (len(tokens) // max_tokens) + 1
+    tokens_per_chunk = len(tokens) // num_chunks
+    
+    chunks = []
+    current_chunk = []
+
+    for i, token in enumerate(tokens):
+        current_chunk.append(token)
+        if (i + 1) % tokens_per_chunk == 0 or i == len(tokens) - 1:
+            chunks.append(encoder.decode(current_chunk))
+            current_chunk = []
+
+    return chunks

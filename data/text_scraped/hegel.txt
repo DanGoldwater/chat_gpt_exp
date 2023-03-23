@@ -1,22 +1,10 @@
-
-
-
-
-
-
 Hegel’s Dialectics
 First published Fri Jun 3, 2016; substantive revision Fri Oct 2, 2020
-
-
-
-
-
 “Dialectics” is a term used to describe a method of
 philosophical argument that involves some sort of contradictory
 process between opposing sides. In what is perhaps the most classic
 version of “dialectics”, the ancient Greek philosopher,
 Plato (see entry on
- 
 Plato
 ),
  for instance, presented his philosophical argument as a
@@ -33,13 +21,9 @@ and come to adopt more sophisticated views. The back-and-forth
 dialectic between Socrates and his interlocutors thus becomes
 Plato’s way of arguing against the earlier, less sophisticated
 views or positions and for the more sophisticated ones later.
-
-
-
 “Hegel’s dialectics” refers to the particular
 dialectical method of argument employed by the 19th Century German
 philosopher, G.W.F. Hegel (see entry on
- 
 Hegel
 ),
  which, like other “dialectical” methods, relies on a
@@ -64,7 +48,6 @@ earlier, less sophisticated definitions or views and for the more
 sophisticated ones later. Hegel regarded this dialectical method or
 “speculative mode of cognition” (PR §10) as the
 hallmark of his philosophy and used the same method in the
-
 Phenomenology of Spirit
  [PhG], as well as in all of the
 mature works he published later—the entire 
@@ -80,9 +63,6 @@ Science of Logic
 Philosophy of
 Right
  [PR].
-
-
-
 Note that, although Hegel acknowledged that his dialectical method was
 part of a philosophical tradition stretching back to Plato, he
 criticized Plato’s version of dialectics. He argued that
@@ -101,111 +81,45 @@ they, too, lead to a contradiction. Because Hegel believed that reason
 necessarily generates contradictions, as we will see, he thought new
 premises will indeed produce further contradictions. As he puts the
 argument, then, 
-
-
-
-
-
 the scepticism that ends up with the bare abstraction of nothingness
 or emptiness cannot get any further from there, but must wait to see
 whether something new comes along and what it is, in order to throw it
 too into the same empty abyss. (PhG-M §79) 
-
-
-
-
-
 Hegel argues that, because Plato’s dialectics cannot get beyond
 arbitrariness and skepticism, it generates only approximate truths,
 and falls short of being a genuine science (SL-M 55–6; SL-dG
 34–5; PR, Remark to §31; cf. EL Remark to §81). The
 following sections examine Hegel’s dialectics as well as these
 issues in more detail.
-
-
-
-
-
-
-
-
-
-
 1. Hegel’s description of his dialectical method
-
-
 2. Applying Hegel’s dialectical method to his arguments
-
-
 3. Why does Hegel use dialectics?
-
-
 4. Is Hegel’s dialectical method logical?
-
-
 5. Syntactic patterns and special terminology in Hegel’s dialectics
-
-
 Bibliography
-
-
-
-
 English Translations of Key Texts by Hegel
-
-
 English Translations of Other Primary Sources
-
-
 Secondary Literature
-
-
-
-
 Academic Tools
-
-
 Other Internet Resources
-
-
 Related Entries
-
-
-
-
-
-
-
-
-
-
-
-
 1. Hegel’s description of his dialectical method
-
-
-
 Hegel provides the most extensive, general account of his dialectical
 method in Part I of his 
 Encyclopaedia of Philosophical
 Sciences
 , which is often called the 
 Encyclopaedia Logic
-
 [EL]. The form or presentation of logic, he says, has three sides or
 moments (EL §79). These sides are not parts of logic, but,
 rather, moments of “every concept”, as well as “of
 everything true in general” (EL Remark to §79; we will see
 why Hegel thought dialectics is in everything in
- 
 section 3
 ).
  The first moment—the moment of the understanding—is the
 moment of fixity, in which concepts or forms have a seemingly stable
 definition or determination (EL §80).
-
-
-
 The second moment—the “
 dialectical
 ” (EL
@@ -229,11 +143,9 @@ means both to cancel (or negate) and to preserve at the same time (PhG
 §113; SL-M 107; SL-dG 81–2; cf. EL the Addition to
 §95). The moment of understanding sublates 
 itself
-
 because its own character or nature—its one-sidedness or
 restrictedness—destabilizes its definition and leads it to pass
 into its opposite. The dialectical moment thus involves a process of
-
 self
 -sublation, or a process in which the determination from
 the moment of understanding sublates 
@@ -243,9 +155,6 @@ and preserves
 itself
 , as it pushes on to or passes into its
 opposite.
-
-
-
 The third moment—the “
 speculative
 ” or
@@ -261,25 +170,14 @@ absurdum
  argument, which says that when the premises of an
 argument lead to a contradiction, then the premises must be discarded
 altogether, leaving nothing. As Hegel suggests in the
-
 Phenomenology
 , such an argument 
-
-
-
-
-
 is just the skepticism which only ever sees pure nothingness in its
 result and abstracts from the fact that this nothingness is
 specifically the nothingness of that 
 from which it results
 .
 (PhG-M §79) 
-
-
-
-
-
 Although the speculative moment negates the contradiction, it is a
 determinate or defined nothingness because it is the result of a
 specific process. There is something particular about the
@@ -289,7 +187,6 @@ one-sidedness or restrictedness—that leads it to fall apart in
 the dialectical moment. The speculative moment has a definition,
 determination or content because it grows out of and unifies the
 particular character of those earlier determinations, or is “a
-
 unity of distinct determinations
 ” (EL Remark to
 §82). The speculative moment is thus “truly not 
@@ -307,42 +204,33 @@ determinate
 content” (PhG-M §79). As he also puts it, “the result
 is conceived as it is in truth, namely, as a 
 determinate
-
 negation [
 bestimmte
  Negation]; a new form has thereby
 immediately arisen” (PhG-M §79). Or, as he says,
 “[b]ecause the result, the negation, is a 
 determinate
-
 negation [bestimmte 
 Negation
 ], it has a
-
 content
 ” (SL-dG 33; cf. SL-M 54). Hegel’s claim
 in both the 
 Phenomenology
  and the 
 Science of Logic
-
 that his philosophy relies on a process of “
 determinate
-
 negation [
 bestimmte
  Negation]” has sometimes led
 scholars to describe his dialectics as a method or doctrine of
 “determinate negation” (see entry on
- 
 Hegel, section on 
 Science of Logic
 ;
  cf. Rosen 1982: 30; Stewart 1996, 2000: 41–3; Winfield 1990:
 56).
-
-
-
 There are several features of this account that Hegel thinks raise his
 dialectical method above the arbitrariness of Plato’s dialectics
 to the level of a genuine science. First, because the determinations
@@ -365,7 +253,6 @@ necessity
 —the idea that
 the method involves being forced from earlier moments to later
 ones—leads Hegel to regard his dialectics as a kind of
-
 logic
 . As he says in the 
 Phenomenology
@@ -374,11 +261,7 @@ method’s “proper exposition belongs to logic” (PhG-M
 §48). Necessity—the sense of being driven or forced to
 conclusions—is the hallmark of “logic” in Western
 philosophy.
-
-
-
 Second, because the form or determination that arises is the
-
 result
  of the self-sublation of the determination from the
 moment of understanding, there is no need for some new idea to show up
@@ -395,13 +278,9 @@ through which alone
 immanent coherence and necessity
  enter
 into the content of science” (EL-GSH Remark to §81).
-
-
-
 Third, because later determinations “sublate” earlier
 determinations, the earlier determinations are not completely
 cancelled or negated. On the contrary, the earlier determinations are
-
 preserved
  in the sense that they remain in effect within the
 later determinations. When Being-for-itself, for instance, is
@@ -416,9 +295,6 @@ its own definition as the concept that gathers them up.
 Being-for-itself replaces the something-others, but it also preserves
 them, because its definition still requires them to do their work of
 picking out individual somethings (EL §§95–6).
-
-
-
 The concept of “apple”, for example, as a
 Being-for-itself, would be defined by gathering up individual
 “somethings” that are the same as one another (as apples).
@@ -447,27 +323,10 @@ before
 concept of “apple”—as the Being-for-itself—can
 gather them up for its own definition. We can picture the concept of
 Being-for-itself like this:
-
-
-
-
-
-
-
-
 Figure 1
-
-
-
-
-
 Later concepts thus replace, but also preserve, earlier concepts.
-
-
-
 Fourth, later concepts both determine and also surpass the limits or
 finitude of earlier concepts. Earlier determinations sublate
-
 themselves
 —they pass into their others because of some
 weakness, one-sidedness or restrictedness in their own definitions.
@@ -488,30 +347,15 @@ something-other cannot do. Dialectics thus allows us to get beyond the
 finite to the universal. As Hegel puts it, “all genuine,
 nonexternal elevation above the finite is to be found in this
 principle [of dialectics]” (EL-GSH Remark to §81).
-
-
-
 Fifth, because the determination in the speculative moment grasps the
-
 unity
  of the first two moments, Hegel’s dialectical
 method leads to concepts or forms that are increasingly comprehensive
 and universal. As Hegel puts it, the result of the dialectical process
-
-
-
-
-
-
 is a new concept but one higher and richer than the
 preceding—richer because it negates or opposes the preceding and
 therefore contains it, and it contains even more than that, for it is
 the unity of itself and its opposite. (SL-dG 33; cf. SL-M 54) 
-
-
-
-
-
 Like Being-for-itself, later concepts are more universal because they
 unify or are built 
 out of
@@ -520,9 +364,6 @@ those earlier determinations as part of their definitions. Indeed,
 many other concepts or determinations can also be depicted as
 literally surrounding earlier ones (cf. Maybee 2009: 73, 100, 112,
 156, 193, 214, 221, 235, 458).
-
-
-
 Finally, because the dialectical process leads to increasing
 comprehensiveness and universality, it ultimately produces a complete
 series, or drives “to completion” (SL-dG 33; cf. SL-M 54;
@@ -550,40 +391,14 @@ an oval that is filled up with and surrounds numerous, embedded rings
 of smaller ovals and circles, which represent all of the earlier and
 less universal determinations from the logical development (cf. Maybee
 2009: 30, 600):
-
-
-
-
-
-
-
-
 Figure 2
-
-
-
-
-
 Since the “Absolute” concepts for each subject matter lead
 into one another, when they are taken together, they constitute
 Hegel’s entire philosophical system, which, as Hegel says,
 “presents itself therefore as a circle of circles” (EL-GSH
 §15). We can picture the entire system like this (cf. Maybee
 2009: 29):
-
-
-
-
-
-
-
-
 Figure 3
-
-
-
-
-
 Together, Hegel believes, these characteristics make his dialectical
 method genuinely scientific. As he says, “the dialectical
 constitutes the moving soul of scientific progression” (EL-GSH
@@ -592,12 +407,7 @@ can be more or less complete and detailed, but because the method or
 progression is driven only by the subject matter itself, this
 dialectical method is the “only true method” (SL-M 54;
 SL-dG 33).
-
-
 2. Applying Hegel’s dialectical method to his arguments
-
-
-
 So far, we have seen how Hegel describes his dialectical method, but
 we have yet to see how we might read this method into the arguments he
 offers in his works. Scholars often use the first three stages of the
@@ -617,14 +427,10 @@ It is therefore equally a Nothing (SL-M 82; SL-dG 59). Being’s
 lack of determination thus leads it to sublate itself and pass into
 the concept of Nothing (EL §87; SL-M 82; SL-dG 59), which
 illustrates the dialectical moment.
-
-
-
 But if we focus for a moment on the definitions of Being and Nothing
 themselves, their definitions have the same content. Indeed, both are
 undetermined, so they have the same kind of undefined content. The
 only difference between them is “something merely
-
 meant
 ” (EL-GSH Remark to §87), namely, that Being is
 an undefined content, taken as or meant to be presence, while Nothing
@@ -639,7 +445,6 @@ then taken as presence (Being). To Become is to go from Being to
 Nothing or from Nothing to Being, or is, as Hegel puts it, “the
 immediate vanishing of the one in the other” (SL-M 83; cf. SL-dG
 60). The contradiction between Being and Nothing thus is not a
-
 reductio ad absurdum
 , or does not lead to the rejection of
 both concepts and hence to nothingness—as Hegel had said
@@ -647,9 +452,6 @@ Plato’s dialectics does (SL-M 55–6; SL-dG
 34–5)—but leads to a positive result, namely, to the
 introduction of a new concept—the synthesis—which unifies
 the two, earlier, opposed concepts.
-
-
-
 We can also use the textbook Being-Nothing-Becoming example to
 illustrate Hegel’s concept of 
 aufheben
@@ -672,9 +474,6 @@ is
 cf. SL-dG 80). Becoming succeeds in having a definition or
 determination because it is defined by, or piggy-backs on, the
 concepts of Being and Nothing.
-
-
-
 This “textbook” Being-Nothing-Becoming example is closely
 connected to the traditional idea that Hegel’s dialectics
 follows a thesis-antithesis-synthesis pattern, which, when applied to
@@ -690,13 +489,9 @@ Hegel’s dialectics continue to have currency (e.g., Forster
 1993: 131; Stewart 2000: 39, 55; Fritzman 2014: 3–5). On this
 reading, Being is the positive moment or thesis, Nothing is the
 negative moment or antithesis, and Becoming is the moment of
-
 aufheben
  or synthesis—the concept that cancels and
 preserves, or unifies and combines, Being and Nothing.
-
-
-
 We must be careful, however, not to apply this textbook example too
 dogmatically to the rest of Hegel’s logic or to his dialectical
 method more generally (for a classic criticism of the
@@ -720,9 +515,6 @@ takes place, the Measureless itself is redefined as a Measure (EL
 Being-Nothing-Becoming example, since the transition from Measure to
 Essence would not follow a Measure-Measureless-Essence pattern, but
 rather a Measure-(Measureless?)-Measure-Essence pattern.
-
-
-
 Other sections of Hegel’s philosophy do not fit the triadic,
 textbook example of Being-Nothing-Becoming at all, as even
 interpreters who have supported the traditional reading of
@@ -743,9 +535,6 @@ triad is incomplete”, Stace complains. “There is no third.
 Hegel here abandons the triadic method. Nor is any explanation of his
 having done so forthcoming” (Stace 1955 [1924]: 286; cf.
 McTaggart 1964 [1910]: 292).
-
-
-
 Interpreters have offered various solutions to the complaint that
 Hegel’s dialectics sometimes seems to violate the triadic form.
 Some scholars apply the triadic form fairly loosely across several
@@ -760,9 +549,6 @@ that Hegel’s triadic form is easier to discern the more broadly
 we apply it. “The triadic form appears on many scales”, he
 says, “and the larger the scale we consider the more obvious it
 is” (Mure 1950: 302).
-
-
-
 Scholars who interpret Hegel’s description of dialectics on a
 smaller scale—as an account of how to get from stage to
 stage—have also tried to explain why some sections seem to
@@ -770,7 +556,6 @@ violate the triadic form. J.N. Findlay, for instance—who, like
 Stace, associates dialectics “with the 
 triad
 , or with
-
 triplicity
 ”—argues that stages can fit into that
 form in “more than one sense” (Findlay 1962: 66). The
@@ -794,9 +579,6 @@ between the first two terms. In other cases, however, he says, the
 third term is just one possible mediator or unity among other possible
 ones; and, in yet other cases, “the reconciling functions of the
 third member are not at all obvious” (Findlay 1962: 70).
-
-
-
 Let us look more closely at one place where the “textbook
 example” of Being-Nothing-Becoming does not seem to describe the
 dialectical development of Hegel’s logic very well. In a later
@@ -810,7 +592,6 @@ kinds of purposes that occur in consciousness, such as needs or
 drives, but also the “internal purposiveness” or
 teleological view proposed by the ancient Greek philosopher, Aristotle
 (see entry on
- 
 Aristotle
 ;
  EL Remark to §204), according to which things in the world have
@@ -825,9 +606,6 @@ pushing out into Particularity, then into Singularity (the syllogism
 U-P-S), and ultimately into ‘out-thereness,’ or into
 individual objects out there in the world (EL §210; cf. Maybee
 2009: 466–493).
-
-
-
 Hegel’s description of the development of Purpose does not seem
 to fit the textbook Being-Nothing-Becoming example or the
 thesis-antithesis-synthesis model. According to the example and model,
@@ -841,9 +619,6 @@ Abstract Purpose (it refines the definition of Abstract Purpose), it
 is hard to see how it would qualify as strictly “opposed”
 to or as the “antithesis” of Abstract Purpose in the way
 that Nothing is opposed to or is the antithesis of Being.
-
-
-
 There is an answer, however, to the criticism that many of the
 determinations are not “opposites” in a strict sense. The
 German term that is translated as “opposite” in
@@ -854,13 +629,11 @@ entgegensetzen
 words: 
 setzen
  (“to posit or set”),
-
 gegen
 , (“against”), and the prefix 
 ent
 -,
 which indicates that something has entered into a new state. The verb
-
 entgegensetzen
  can therefore literally be translated as
 “to set over against”. The
@@ -870,7 +643,6 @@ engegengesetzte
 then, do not need to be the strict “opposites” of the
 first, but can be determinations that are merely “set
 against” or are different from the first ones. And the prefix
-
 ent
 -, which suggests that the first determinations are put
 into a new state, can be explained by Hegel’s claim that the
@@ -878,16 +650,11 @@ finite determinations from the moment of understanding sublate (cancel
 but also preserve) themselves (EL §81): later determinations put
 earlier determinations into a new state by 
 preserving
-
 them.
-
-
-
 At the same time, there is a technical sense in which a later
 determination would still be the “opposite” of the earlier
 determination. Since the second determination is different from the
 first one, it is the logical negation of the first one, or is
-
 not
 -the-first-determination. If the first determination is
 “e”, for instance, because the new determination is
@@ -902,9 +669,6 @@ technical, logical sense in which the second concept or form is the
 “opposite” or negation of—or is
 “not”—the first one—though, again, it need not
 be the “opposite” of the first one in a strict sense.
-
-
-
 Other problems remain, however. Because the concept of Realized
 Purpose is defined through a syllogistic process, it is itself the
 product of several stages of development (at least four, by my count,
@@ -918,9 +682,6 @@ particular material or content. Realized Purpose thus seems to be a
 development of Finite Purpose, rather than a unity or combination of
 Abstract Purpose and Finite Purpose, in the way that Becoming can be
 said to be the unity or combination of Being and Nothing.
-
-
-
 These sorts of considerations have led some scholars to interpret
 Hegel’s dialectics in a way that is implied by a more literal
 reading of his claim, in the 
@@ -931,12 +692,10 @@ moment of understanding, the dialectical moment, and the speculative
 moment—“are 
 moments of each
  [or every;
-
 jedes
 ] 
 logically-real
 , that is each [or every;
-
 jedes
 ] concept” (EL Remark to §79; this is an
 alternative translation). The quotation suggests that 
@@ -944,7 +703,6 @@ each
 concept
  goes through all three moments of the dialectical
 process—a suggestion reinforced by Hegel’s claim, in the
-
 Phenomenology
 , that the result of the process of determinate
 negation is that “a new form has thereby immediately
@@ -961,9 +719,6 @@ one that comes first, and the one that comes next (examples of
 philosophers who interpret Hegel’s dialectics in this second way
 include Maybee 2009; Priest 1989: 402; Rosen 2014: 122, 132; and
 Winfield 1990: 56).
-
-
-
 For the concept of Being, for example, its moment of understanding is
 its moment of stability, in which it is asserted to be pure presence.
 This determination is one-sided or restricted however, because, as we
@@ -971,7 +726,6 @@ saw, it ignores another aspect of Being’s definition, namely,
 that Being has no content or determination, which is how Being is
 defined in its dialectical moment. Being thus sublates 
 itself
-
 because the one-sidedness of its moment of understanding undermines
 that determination and leads to the definition it has in the
 dialectical moment. The speculative moment draws out the implications
@@ -983,7 +737,6 @@ Entgegensetzung
 translation): since it captures a process from one to the other, it
 includes Being’s moment of understanding (as pure presence) and
 dialectical moment (as nothing or undetermined), but also
-
 compares
  those two determinations, or sets (-
 setzen
@@ -998,9 +751,6 @@ concept, Nothing, will
 sublate
  (cancel and preserve)
 Being.
-
-
-
 The concept of Nothing also has all three moments. When it is asserted
 to be the speculative result of the concept of Being, it has its
 moment of understanding or stability: it is Nothing, defined as pure
@@ -1017,31 +767,16 @@ has the same
 presence
  that Being did. It is 
 present
-
 as an undefined 
 content
 . Nothing thus 
 sublates
-
 Being: it replaces (cancels) Being, but also preserves Being insofar
 as it has the same definition (as an undefined content) and presence
 that Being had. We can picture Being and Nothing like this (the
 circles have dashed outlines to indicate that, as concepts, they are
 each undefined; cf. Maybee 2009: 51):
-
-
-
-
-
-
-
-
 Figure 4
-
-
-
-
-
 In its speculative moment, then, Nothing implies presence or Being,
 which is the “unity of the determinations in their comparison
 [
@@ -1055,9 +790,6 @@ compares
  the two earlier
 determinations of Nothing, first, as pure absence and, second, as just
 as much presence.
-
-
-
 The dialectical process is driven to the next concept or
 form—Becoming—not by a triadic,
 thesis-antithesis-synthesis pattern, but by the one-sidedness of
@@ -1076,20 +808,7 @@ Nothing implies Being. It is therefore Becoming, defined as two
 separate processes: one in which Being becomes Nothing, and one in
 which Nothing becomes Being. We can picture Becoming this way (cf.
 Maybee 2009: 53):
-
-
-
-
-
-
-
-
 Figure 5
-
-
-
-
-
 In a similar way, a one-sidedness or restrictedness in the
 determination of Finite Purpose together with the implications of
 earlier stages leads to Realized Purpose. In its moment of
@@ -1104,20 +823,7 @@ But this object or particularity—e.g. the salad—is
 “inwardly reflected” (EL §205): it has its own
 content—developed in earlier stages—which the definition
 of Finite Purpose ignores. We can picture Finite Purpose this way:
-
-
-
-
-
-
-
-
 Figure 6
-
-
-
-
-
 In the dialectical moment, Finite Purpose is determined by the
 previously ignored content, or by that other content. The
 one-sidedness of Finite Purpose requires the dialectical process to
@@ -1137,7 +843,6 @@ that particularizes as lettuce (as a type of thing) and has its
 singularity in this lettuce here—a second syllogism, U-P-S.
 Thus, the first singularity (e.g., “lettuce” as a type of
 thing)—which, in this second syllogism, is the particularity or
-
 P
 —“
 judges
@@ -1165,20 +870,7 @@ pre-given object with a content that it ignores—to its
 dialectical moment—when it is also defined by the previously
 ignored content. We can picture the speculative moment of Finite
 Purpose this way:
-
-
-
-
-
-
-
-
 Figure 7
-
-
-
-
-
 Finite Purpose’s speculative moment leads to Realized Purpose.
 As soon as Finite Purpose presents all the content, there is a return
 process (a series of return arrows) that establishes each layer and
@@ -1189,26 +881,12 @@ that captures a mutually-defining relationship between an Inner and an
 Outer [EL §142]), which establishes the “salad”,
 which establishes “dinner” as the Realized Purpose over
 the whole process. We can picture Realized Purpose this way:
-
-
-
-
-
-
-
-
 Figure 8
-
-
-
-
-
 If Hegel’s account of dialectics is a general description of the
 life of each concept or form, then any section can include as many or
 as few stages as the development requires. Instead of trying to
 squeeze the stages into a triadic form (cf. Solomon 1983: 22)—a
 technique Hegel himself rejects (PhG §50; cf.
- 
 section 3
 )—we
  can see the process as driven by each determination on its own
@@ -1222,20 +900,12 @@ comprehensive and exhaustive exploration of every concept, form or
 determination in each subject matter, as well as raise dialectics
 above a haphazard analysis of various philosophical views to the level
 of a genuine science.
-
-
 3. Why does Hegel use dialectics?
-
-
-
 We can begin to see why Hegel was motivated to use a dialectical
 method by examining the project he set for himself, particularly in
 relation to the work of David Hume and Immanuel Kant (see entries on
- 
 Hume
-
  and
- 
 Kant
 ).
  Hume had argued against what we can think of as the naïve view
@@ -1252,7 +922,6 @@ that there is a necessary connection between the first event (the
 cause) and the second event (the effect), such that, when the first
 event happens, the second event must also happen. According to
 naïve science, when we claim (or know) that some event
-
 causes
  some other event, our claim mirrors or copies what the
 world is like. It follows that the necessary, causal connection
@@ -1267,9 +936,6 @@ Enquiry Concerning Human
 Understanding
 , Section VII, Part I). There is nothing in the
 world itself that our idea of cause mirrors or copies.
-
-
-
 Kant thought Hume’s argument led to an unacceptable, skeptical
 conclusion, and he rejected Hume’s own solution to the
 skepticism (see Kant’s 
@@ -1307,9 +973,6 @@ we are rational creatures, we share a cognitive structure with one
 another that regularizes our experiences of the world. This
 intersubjectively shared structure of rationality—and not the
 world itself—grounds our knowledge.
-
-
-
 However, Kant’s solution to Hume’s skepticism led to a
 skeptical conclusion of its own that Hegel rejected. While the
 intersubjectively shared structure of our reason might allow us to
@@ -1327,9 +990,6 @@ Bxxv–xxvi). Hegel rejected Kant’s skeptical conclusion
 that we can know nothing about the world- or Thing-in-itself, and he
 intended his own philosophy to be a response to this view (see, e.g.,
 EL §44 and the Remark to §44).
-
-
-
 How did Hegel respond to Kant’s skepticism—especially
 since Hegel accepted Kant’s Copernican revolution, or
 Kant’s claim that we have knowledge of the world because of what
@@ -1342,7 +1002,6 @@ concepts or ideas. Because the world is imperfect, however, Plato
 exiled the Forms to their own realm. Although things in the world get
 their definitions by participating in the Forms, those things are, at
 best, imperfect copies of the universal Forms (see, e.g.,
-
 Parmenides
  131–135a). The Forms are therefore not in
 this world, but in a separate realm of their own. Aristotle argued,
@@ -1358,9 +1017,6 @@ On the Soul
 Metaphysics
 , Book VII, Chapter 6
 [1031b6–1032a5] and Chapter 8 [1033b20–1034a8]).
-
-
-
 In a similar way, Hegel’s answer to Kant is that we can get out
 of our heads to see what the world is like in itself—and hence
 can have knowledge of the world in itself—because the very same
@@ -1370,44 +1026,23 @@ itself
 . As Hegel apparently put it in a lecture, the opposition
 or antithesis between the subjective and objective disappears by
 saying, as the Ancients did, 
-
-
-
-
-
 that 
 nous
  governs the world, or by our own saying that there
 is reason in the world, by which we mean that reason is the soul of
 the world, inhabits it, and is immanent in it, as it own, innermost
 nature, its universal. (EL-GSH Addition 1 to §24) 
-
-
-
-
-
 Hegel used an example familiar from Aristotle’s work to
 illustrate this view: 
-
-
-
-
-
 “to be an animal”, the kind considered as the universal,
 pertains to the determinate animal and constitutes its determinate
 essentiality. If we were to deprive a dog of its animality we could
 not say what it is. (EL-GSH Addition 1 to §24; cf. SL-dG
 16–17, SL-M 36-37)
-
-
-
-
-
 Kant’s mistake, then, was that he regarded reason or rationality
 as only in our heads, Hegel suggests (EL §§43–44),
 rather than in both us and the world itself (see also below in this
 section and
- 
 section 4
 ).
  We can use our reason to have knowledge of the world because the very
@@ -1418,9 +1053,6 @@ understand, reality with our rationality. Dialectics—which is
 Hegel’s account of reason—characterizes not only logic,
 but also “everything true in general” (EL Remark to
 §79).
-
-
-
 But why does Hegel come to define reason in terms of dialectics, and
 hence adopt a dialectical method? We can begin to see what drove Hegel
 to adopt a dialectical method by returning once again to Plato’s
@@ -1441,9 +1073,6 @@ well-known parable of the cave;
 Republic
 , Book 7,
 514–516b).
-
-
-
 Notice, however, that Plato’s conclusion that the Forms cannot
 be in this world and so must be exiled to a separate realm rests on
 two claims. First, it rests on the claim that the world is an
@@ -1459,7 +1088,6 @@ messy
 . Against Plato, Hegel’s
 dialectical method allows him to argue that universal concepts can
 “overgrasp” (from the German verb
-
 übergreifen
 ) the messy, dialectical nature of the world
 because they, themselves, are 
@@ -1486,9 +1114,6 @@ spiritual life” (SL-M 56; SL-dG 35), or “the moving soul
 of scientific progression” (EL §81). Dialectics is what
 drives the development of both reason as well as of things in the
 world. A dialectical reason can overgrasp a dialectical world.
-
-
-
 Two further journeys into the history of philosophy will help to show
 why Hegel chose dialectics as his method of argument. As we saw, Hegel
 argues against Kant’s skepticism by suggesting that reason is
@@ -1498,7 +1123,6 @@ what it is without us human beings to help it. He has to show that
 reason can develop on its own, and does not need us to do the
 developing for it (at least for those things in the world that are not
 human-created). As we saw (cf.
- 
 section 1
 ),
  central to Hegel’s dialectics is the idea that concepts or
@@ -1510,9 +1134,6 @@ subsequent concepts or forms on their own accounts, because of their
 own, dialectical natures. Thus reason, as it were, drives itself, and
 hence does not need our heads to develop it. Hegel needs an account of
 self-driving reason to get beyond Kant’s skepticism.
-
-
-
 Ironically, Hegel derives the basic outlines of his account of
 self-driving reason from Kant. Kant divided human rationality into two
 faculties: the faculty of the understanding and the faculty of reason.
@@ -1538,16 +1159,12 @@ syllogisms until it develops completely comprehensive or unconditioned
 universals—universals that contain all of the conditions or all
 of the less-comprehensive concepts that help to define them. As we saw
 (cf.
- 
 section 1
 ),
  Hegel’s dialectics adopts Kant’s notion of a self-driving
 and concept-creating “speculative” reason, as well as
 Kant’s idea that reason aims toward unconditioned universality
 or absolute concepts.
-
-
-
 Ultimately, Kant thought, reasons’ necessary, self-driving
 activity will lead it to produce contradictions—what he called
 the “antinomies”, which consist of a thesis and
@@ -1578,9 +1195,6 @@ the world of experience, Kant said, and so cannot be considered
 genuine knowledge (
 Critique of Pure Reason
 , A506/B534).
-
-
-
 Hegel adopts Kant’s dialectical conception of reason, but he
 liberates reason for knowledge from the tyranny of the understanding.
 Kant was right that reason speculatively generates concepts on its
@@ -1595,7 +1209,6 @@ antinomies to “
 things in themselves
 ” (SL-M 56;
 SL-dG 35; see also
- 
 section 4
 ).
  Indeed, Kant’s own argument proves that the dialectical nature
@@ -1610,7 +1223,6 @@ conclusions as illusions. Still, Kant’s philosophy vindicated
 the general idea that the contradictions he took to be illusions are
 both objective—or out there in the world—and necessary. As
 Hegel puts it, Kant vindicates the general idea of “the
-
 objectivity of the illusion
  and the 
 necessity of the
@@ -1618,11 +1230,7 @@ contradiction
  which belongs to the nature of thought
 determinations” (SL-M 56; cf. SL-dG 35), or to the nature of
 concepts themselves.
-
-
-
 The work of Johann Gottlieb Fichte (see entry on
- 
 Fichte
 )
  showed Hegel how dialectics can get beyond Kant—beyond the
@@ -1666,23 +1274,12 @@ necessary
 . As he says
 of the move from the contradiction between self and not-self to the
 synthetic concept of divisibility, 
-
-
-
-
-
 there can be no further question as to the possibility of this
 [synthesis], nor can any ground for it be given; it is absolutely
 possible, and we are entitled to it without further grounds of any
 kind. (
 The Science of Knowledge
 , I: 114; Fichte 1982: 112)
-
-
-
-
-
-
 Since the analytical method leads to oppositions or contradictions, he
 argued, if we use only analytic judgments, “we not only do not
 get very far, as 
@@ -1697,9 +1294,6 @@ reductio ad absurdum
  argument suggests, with nothing
 at all. The synthetic concepts or judgments are thus necessary to get
 beyond contradiction without leaving us with nothing.
-
-
-
 Fichte’s account of the synthetic method provides Hegel with the
 key to moving beyond Kant. Fichte suggested that a synthetic concept
 that unifies the results of a dialectically-generated contradiction
@@ -1711,13 +1305,11 @@ to abolish its reality, not
 wholly
 , but in 
 part
-
 only” (
 The Science of Knowledge
 , I: 108; Fichte 1982:
 108). Instead of concluding, as a 
 reductio ad absurdum
-
 requires, that the two sides of a contradiction must be dismissed
 altogether, the synthetic concept or judgment retroactively justifies
 the opposing sides by demonstrating their limit, by showing which part
@@ -1727,27 +1319,21 @@ Knowledge
 , I: 108–10; Fichte 1982: 108–9), or by
 determining in what respect and to what degree they are each true. For
 Hegel, as we saw (cf.
- 
 section 1
 ),
  later concepts and forms sublate—both cancel and
-
 preserve
 —earlier concepts and forms in the sense that
 they include earlier concepts and forms in their own definitions. From
 the point of view of the later concepts or forms, the earlier ones
 still have some validity, that is, they have a limited validity or
 truth defined by the higher-level concept or form.
-
-
-
 Dialectically generated contradictions are therefore not a defect to
 be reigned in by the understanding, as Kant had said, but invitations
 for reason to “speculate”, that is, for reason to generate
 precisely the sort of increasingly comprehensive and universal
 concepts and forms that Kant had said reason aims to develop.
 Ultimately, Hegel thought, as we saw (cf.
- 
 section 1
 ),
  the dialectical process leads to a completely unconditioned concept
@@ -1762,9 +1348,6 @@ constitutes the whole philosophical system or “Idea” (EL
 makes it
 understandable
  (for us). 
-
-
-
 Note that, while Hegel was clearly influenced by Fichte’s work,
 he never adopted Fichte’s triadic
 “thesis—antithesis—synthesis” language in his
@@ -1773,7 +1356,6 @@ descriptions of his own philosophy (Mueller 1958: 411–2; Solomon
 Kant’s philosophy (LHP III: 477). Indeed, Hegel criticized
 formalistic uses of the method of “
 triplicity
-
 [Triplizität]” (PhG-P §50) inspired by Kant—a
 criticism that could well have been aimed at Fichte. Hegel argued that
 Kantian-inspired uses of triadic form had been reduced to “a
@@ -1785,17 +1367,11 @@ translation) that, like a formula in mathematics, was simply imposed
 on top of subject matters. Instead, a properly scientific use of
 Kant’s “triplicity” should flow—as he said his
 own dialectical method did (see
- 
 section 1
 )—out
  of “the inner life and self-movement” (PhG §51) of
 the content. 
-
-
 4. Is Hegel’s dialectical method logical?
-
-
-
 Scholars have often questioned whether Hegel’s dialectical
 method is logical. Some of their skepticism grows out of the role that
 contradiction plays in his thought and argument. While many of the
@@ -1808,48 +1384,30 @@ section 2
  above), scholars such as Graham Priest have suggested that some of
 them arguably are (Priest 1989: 391). Hegel even holds, against Kant
 (cf.
- 
 section 3
-
  above), that there are contradictions, not only in thought, but also
 in the world. Motion, for instance, Hegel says, is an
 “
 existent
  contradiction”. As he describes it:
-
-
-
-
-
 Something moves, not because now it is here and there at another now,
 but because in one and the same now it is here and not here, because
 in this here, it is and is not at the same time. (SL-dG 382; cf. SL-M
 440) 
-
-
-
-
-
 Kant’s sorts of antinomies (cf.
- 
 section 3
-
  above) or contradictions more generally are therefore, as Hegel puts
 it in one place, “in 
 all
  objects of all kinds, in
-
 all
  representations, concepts and ideas” (EL-GSH Remark
 to §48). Hegel thus seems to reject, as he himself explicitly
 claims (SL-M 439–40; SL-dG 381–82), the law of
 non-contradiction, which is a fundamental principle of formal
 logic—the classical, Aristotelian logic (see entries on
- 
 Aristotle’s Logic
-
  and
- 
 Contradiction
 )
  that dominated during Hegel’s lifetime as well as the dominant
@@ -1858,9 +1416,6 @@ systems of symbolic logic today (cf. Priest 1989: 391; Düsing
 something cannot be both true and false at the same time or, put
 another way, “x” and “not-x” cannot both be
 true at the same time.
-
-
-
 Hegel’s apparent rejection of the law of non-contradiction has
 led some interpreters to regard his dialectics as illogical, even
 “absurd” (Popper 1940: 420; 1962: 330; 2002: 443). Karl R.
@@ -1875,9 +1430,6 @@ contradictory claims), if we allow contradictory claims to be valid or
 true together, then we would have no reason to rule out any claim
 whatsoever (Popper 1940: 408–410; 1962: 317–319; 2002:
 426–429).
-
-
-
 Popper was notoriously hostile toward Hegel’s work (cf. Popper
 2013: 242–289; for a scathing criticism of Popper’s
 analysis see Kaufmann 1976 [1972]), but, as Priest has noted (Priest
@@ -1892,10 +1444,8 @@ logical argument that Popper offered in defense of the claim that
 “dialectical contradiction is not a ‘normal’
 contradiction, but one that is actually only an 
 apparent
-
 contradiction” (Wandschneider 2010: 37). The suggestion (by the
 traditional, triadic account of Hegel’s dialectics, cf.
- 
 section 2
 ,
  above) that Being and Nothing (or non-being) is a contradiction, for
@@ -1912,10 +1462,8 @@ is
 property
  they have as
 concepts, namely, that they both have an undefined content. But Being
-
 is not
  Nothing (or non-being) with respect to their
-
 meaning
  (Wandschneider 2010: 34–38). The supposed
 contradiction between them, then, Wandschneider suggests, takes place
@@ -1927,9 +1475,6 @@ concludes, “there can be no talk of
 contradiction
 ”
 (Wandschneider 2010: 38).
-
-
-
 Inoue Kazumi also argues that dialectical contradiction in the
 Hegelian sense does not violate the law of non-contradiction (Inoue
 2014: 121–123), and he rejects Popper’s claim that
@@ -1939,9 +1484,7 @@ when the same topic is considered from different vantage points, but
 each vantage point by itself does not violate the law of
 non-contradiction (Inoue 2014: 120). The understanding leads to
 contradictions, as Hegel said (cf.
- 
 section 3
-
  above), because it examines a topic from a fixed point of view;
 reason embraces contradictions because it examines a topic from
 multiple points of view (Inoue 2014: 121). The geocentric theory that
@@ -1966,7 +1509,6 @@ says, are, as Hegel said, constructive: they lead to concepts or
 points of view that grasp the world from ever wider and more
 encompassing perspectives, culminating ultimately in the
 “Absolute” (Inoue 2014: 121; cf.
- 
 section 1
 ,
  above). Hegel’s claim that motion violates the law of
@@ -1976,18 +1518,13 @@ than one point of view (Inoue 2014: 123). (For a similar reading of
 Hegel’s conception of dialectical contradiction, which
 influenced Inoue’s account [Inoue 2014: 121], see Düsing
 2010: 102–103.)
-
-
-
 Other interpreters, however, have been inspired by Hegel’s
 dialectics to develop alternative systems of logic that do not
 subscribe to the law of non-contradiction. Priest, for instance, has
 defended Hegel’s rejection of the law of non-contradiction (cf.
 Priest 1989; 1997 [2006: 4]). The acceptance of 
 some
-
 contradictions, he has suggested, does not require the acceptance of
-
 all
  contradictions (Priest 1989: 392). Popper’s logical
 argument is also unconvincing. Contradictions lead logically to any
@@ -2037,7 +1574,6 @@ extending Hegel’s own concept of
 aufheben
  (“to
 sublate”; cf.
- 
 section 1
 ,
  above), suggests that traditional “formal logic is perfectly
@@ -2047,15 +1583,10 @@ logical system that allows contradiction and was inspired in part by
 Hegel [and Marx], see Jaśkowski 1999: 36 [1969: 143] [cf. Inoue
 2014: 128–129]. For more on dialetheic logic generally, see the
 entry on
- 
 Dialetheism
 .)
-
-
-
 Worries that Hegel’s arguments fail to fit his account of
 dialectics (see
- 
 section 2
 ,
  above) have led some interpreters to conclude that his method is
@@ -2066,34 +1597,20 @@ logical
  necessity to the moves from
 stage to stage. “[T]he important point to make here, and again
 and again”, Robert C. Solomon writes, for instance, 
-
-
-
-
-
 is that the transition from the first form to the second, or the
 transition from the first form of the 
 Phenomenology
  all the
 way to the last, is not in any way a deductive necessity. The
 connections are anything but entailments, and the
-
 Phenomenology
  could 
 always
  take another route and
 other starting points. (Solomon 1983: 230) 
-
-
-
-
-
 In a footnote to this passage, Solomon adds “that a
 formalization of Hegel’s logic, however ingenious, is
 impossible” (Solomon 1983: 230).
-
-
-
 Some scholars have argued that Hegel’s necessity is not intended
 to be logical necessity. Walter Kaufmann suggested, for instance, that
 the necessity at work in Hegel’s dialectic is a kind of organic
@@ -2118,9 +1635,6 @@ for some purpose
 terms of three senses of the relationship between actuality and
 possibility, only the last of which is logical necessity (Burbidge
 1981: 195–6).
-
-
-
 Other scholars have defined the necessity of Hegel’s dialectics
 in terms of a transcendental argument. A transcendental argument
 begins with uncontroversial facts of experience and tries to show that
@@ -2133,9 +1647,6 @@ transcendental account” in this sense, and thus has the
 necessity of that form of argument (Stewart 2000: 23; cf. Taylor 1975:
 97, 226–7; for a critique of this view, see Pinkard 1988: 7,
 15).
-
-
-
 Some scholars have avoided these debates by interpreting Hegel’s
 dialectics in a literary way. In his examination of the
 epistemological theory of the 
@@ -2143,7 +1654,6 @@ Phenomenology
 , for instance,
 Kenneth R. Westphal offers “a literary model” of
 Hegel’s dialectics based on the story of Sophocles’ play
-
 Antigone
  (Westphal 2003: 14, 16). Ermanno Bencivenga offers
 an interpretation that combines a narrative approach with a concept of
@@ -2151,9 +1661,6 @@ necessity. For him, the necessity of Hegel’s dialectical logic
 can be captured by the notion of telling a good story—where
 “good” implies that the story is both creative and correct
 at the same time (Bencivenga 2000: 43–65).
-
-
-
 Debate over whether Hegel’s dialectical logic is logical may
 also be fueled in part by discomfort with his particular brand of
 logic. Unlike today’s symbolic logics, Hegel’s logic is
@@ -2165,13 +1672,10 @@ logic, where the difference between Being and Nothing is
 meant
 ” (EL-GSH Remark to
 §87; cf.
- 
 section 2
-
  above). While some of the moves from stage to stage are driven by
 syntactic necessity, other moves are driven by the 
 meanings
-
 of the concepts in play. Indeed, Hegel rejected what he regarded as
 the overly formalistic logics that dominated the field during his day
 (EL Remark to §162; SL-M 43–44; SL-dG 24). A logic that
@@ -2186,7 +1690,6 @@ P
 Q
  (in the proposition “if 
 P
-
 then 
 Q
 ” or “
@@ -2204,7 +1707,6 @@ x
 ” (in the proposition “if 
 F
  is
-
 x
 , then 
 G
@@ -2213,7 +1715,6 @@ x
 ” or “
 F
 x
-
 → 
 G
 x
@@ -2232,14 +1733,10 @@ meaningful forms. Because interpreters are familiar with modern logics
 focused on syntax, however, they may regard Hegel’s syntactic
 and semantic logic as not really logical (cf. Maybee 2009:
 xvii–xxv).
-
-
-
 In Hegel’s other works, the moves from stage to stage are often
 driven, not only by syntax and semantics—that is, by logic
 (given his account of logic)—but also by considerations that
 grow out of the relevant subject matter. In the
-
 Phenomenology
 , for instance, the moves are driven by syntax,
 semantics, and by 
@@ -2247,11 +1744,9 @@ phenomenological
  factors. Sometimes a move
 from one stage to the next is driven by a 
 syntactic
-
 need—the need to stop an endless, back-and-forth process, for
 instance, or to take a new path after all the current options have
 been exhausted (cf.
- 
 section 5
 ).
  Sometimes, a move is driven by the 
@@ -2268,9 +1763,7 @@ fact that the
 Phenomenology
  is about a 
 consciousness
-
 that claims to be aware of (or to know) something. The logic of the
-
 Phenomenology
  is thus a 
 phenomeno
@@ -2278,19 +1771,9 @@ phenomeno
 driven by logic—syntax and semantics—and by
 phenomenological considerations. Still, interpreters such as Quentin
 Lauer have suggested that, for Hegel, 
-
-
-
-
-
 phenomeno-logy is a logic of appearing, a logic of implication, like
 any other logic, even though not of the formal entailment with which
 logicians and mathematicians are familiar. (Lauer 1976: 3) 
-
-
-
-
-
 Lauer warns us against dismissing the idea that there is any
 implication or necessity in Hegel’s method at all (Lauer 1976:
 3). (Other scholars who also believe there is a logical necessity to
@@ -2298,9 +1781,6 @@ the dialectics of the
 Phenomenology
  include Hyppolite 1974:
 78–9 and H.S. Harris 1997: xii.)
-
-
-
 We should also be careful not to exaggerate the
 “necessity” of formal, symbolic logics. Even in these
 logics, there can often be more than one path from some premises to
@@ -2313,20 +1793,13 @@ together. As in today’s logics, then, whether Hegel’s
 dialectics counts as logical depends on the degree to which he shows
 that we are forced—necessarily—from earlier stages or
 series of stages to later stages (see also
- 
 section 5
 ).
-
-
 5. Syntactic patterns and special terminology in Hegel’s dialectics
-
-
-
 Although Hegel’s dialectics is driven by syntax, semantics and
 considerations specific to the different subject matters
  (
 section 4
-
  above), several important syntactic patterns appear repeatedly
 throughout his works. In many places, the dialectical process is
 driven by a syntactic necessity that is really a kind of exhaustion:
@@ -2346,26 +1819,12 @@ is the whole, while the Many are the bits; then the whole and the bits
 are all Ones; then the Many is the whole, while the bits are each a
 One; and finally the whole and the bits are all a Many. We can picture
 the development like this (cf. Maybee 2009, xviii–xix):
-
-
-
-
-
-
-
-
 Figure 9
-
-
-
-
-
 Since One and Many have been exhausted, the next stage, Ratio, must,
 necessarily, employ a different strategy to grasp the elements in
 play. Just as Being-for-itself is a concept of universality for
 Quality and captures the character of a set of something-others in its
 content (see
- 
 section 1
 ),
  so Ratio (the whole rectangle with rounded corners) is a concept of
@@ -2383,9 +1842,6 @@ section 2
 account of and so exhausted, the dialectical development must also,
 necessarily, employ a different strategy in the next stage to grasp
 the elements in play.
-
-
-
 In a second, common syntactic pattern, the dialectical development
 leads to an endless, back-and-forth process—a “bad”
 (EL-BD §94) or “spurious” (EL-GSH §94)
@@ -2398,7 +1854,6 @@ and they are always resolved by a higher-level, more universal
 concept. In some cases, a new, higher-level concept is introduced that
 stops the spurious infinity by grasping the whole, back-and-forth
 process. Being-for-itself (cf.
- 
 section 1
 ),
  for instance, is introduced as a new, more universal concept that
@@ -2418,9 +1873,6 @@ SL-M 547, SL-dG 483), and the move in which a back-and-forth process
 created by finite Cognition and finite Willing redefines the
 Subjective Idea as Absolute Idea (EL §§234–5; cf. SL-M
 822–3, SL-dG 733–4).
-
-
-
 Some of the most famous terms in Hegel’s works—“in
 itself [
 an sich
@@ -2447,15 +1899,11 @@ to be defined (like other concepts or forms, however, “for
 itself” concepts or forms turn out to be dialectical too, and
 hence push on to new concepts or forms). In the logic,
 Being-for-itself (cf.
- 
 section 1
 ),
  which is defined by embracing the “something others” in
 its content, is the first, “for itself” concept or
 form.
-
-
-
 A concept or form is “in and for itself” when it is doubly
 “for itself”, or “for itself” not only in
 terms of 
@@ -2472,7 +1920,6 @@ for
 itself
  (through its own activity), or not only embraces its
 content (the “for itself” of content) but also
-
 presents
  its content through its own activity (the “for
 itself” of form). The second “for itself” of form
@@ -2497,9 +1944,6 @@ instance, is not only defined by embracing its content (namely, all
 animals) from the bottom up, but also has a definition of its own,
 separate from that content, that leads it to determine (and so
 present), from the top down, what counts as an animal.
-
-
-
 Other technical, syntactic terms include 
 aufheben
  (“to
@@ -2523,28 +1967,13 @@ section 2
 ),
  Hegel regarded Becoming as the first concrete concept in the
 logic.
-
-
-
 Although Hegel’s writing and his use of technical terms can make
 his philosophy notoriously difficult, his work can also be very
 rewarding. In spite of—or perhaps because of—the
 difficulty, there are a surprising number of fresh ideas in his work
 that have not yet been fully explored in philosophy. 
-
-
-
-
-
-
 Bibliography
-
-
 English Translations of Key Texts by Hegel
-
-
-
-
 [EL], 
 The Encyclopedia Logic [Enzyklopädie der
 philosophischen Wissenschaften I]
@@ -2554,8 +1983,6 @@ listed below use the same section numbers as well as sub-paragraphs
 (“Additions”), citations simply to “EL” refer
 to either translation. If the phrasing in English is unique to a
 specific translation, the translators’ initials are added.
-
-
 [EL-BD], 
 Encyclopedia of the Philosophical Sciences in Basic
 Outline Part I: Science of Logic [Enzyklopädie der
@@ -2563,23 +1990,17 @@ philosophischen Wissenschaften I]
 , translated by Klaus Brinkmann
 and Daniel O. Dahlstrom, Cambridge: Cambridge University Press,
 2010.
-
-
 [EL-GSH], 
 The Encyclopedia Logic: Part 1 of the Encyclopaedia
 of Philosophical Sciences [Enzyklopädie der philosophischen
 Wissenschaften I]
 , translated by T.F. Geraets, W.A. Suchting, and
 H.S. Harris, Indianapolis: Hackett, 1991.
-
-
 [LHP], 
 Lectures on the History of Philosophy [Geschichte der
 Philosophie]
 , in three volumes, translated by E.S. Haldane and
 Frances H. Simson, New Jersey: Humanities Press, 1974.
-
-
 [PhG], 
 Phenomenology of Spirit [Phänomenologie des
 Geistes]
@@ -2587,50 +2008,32 @@ Geistes]
 same section numbers, citations simply to “PhG” refer to
 either translation. If the phrasing in English is unique to a specific
 translation, the translator’s initial is added.
-
-
 [PhG-M], 
 Hegel’s Phenomenology of Spirit
 [Phänomenologie des Geistes]
 , translated by A.V. Miller,
 Oxford: Oxford University Press, 1977.
-
-
 [PhG-P], 
 Georg Wilhelm Friedrich Hegel: The Phenomenology of
 Spirit [Phänomenologie des Geistes]
 , translated and edited
 by Terry Pinkard, Cambridge: Cambridge University Press, 2018.
-
-
 [PR], 
 Elements of the Philosophy of Right [Philosophie des
 Rechts]
 , edited by Allen W. Wood and translated by H.B. Nisbet,
 Cambridge: Cambridge University Press, 1991.
-
-
 [SL-dG], 
 Georg Wilhelm Friedrich Hegel: The Science of Logic
 [Wissenschaft der Logik]
 , translated by George di Giovanni, New
 York: Cambridge University Press, 2010.
-
-
 [SL-M], 
 Hegel’s Science of Logic [Wissenschaft der
 Logik]
 , translated by A.V. Miller, Oxford: Oxford University
 Press, 1977.
-
-
-
-
 English Translations of Other Primary Sources
-
-
-
-
 Aristotle, 1954, 
 The Complete Works of Aristotle: The Revised
 Oxford Translation
@@ -2638,8 +2041,6 @@ Oxford Translation
 Princeton: Princeton University Press. (Citations to Aristotle’s
 text use the Bekker numbers, which appear in the margins of many
 translations of Aristotle’s works.)
-
-
 Fichte, J.G., 1982 [1794/95], 
 The Science of Knowledge
 ,
@@ -2648,8 +2049,6 @@ University Press. (Citations to Fichte’s work include references
 to the volume and page number in the German edition of Fichte’s
 collected works edited by I.H Fichte, which are used in the margins of
 many translations of Fichte’s works.)
-
-
 Kant, Immanuel, 1999 [1781], 
 Critique of Pure Reason
 ,
@@ -2657,8 +2056,6 @@ translated and edited by Paul Guyer and Allen Wood. Cambridge:
 Cambridge University Press. (Citations to Kant’s text use the
 “Ak.” numbers, which appear in the margins of many
 translations of Kant’s works.)
-
-
 Plato, 1961, 
 The Collected Dialogues of Plato: Including the
 Letters
@@ -2666,102 +2063,68 @@ Letters
 Princeton: Princeton University Press. (Citations to Plato’s
 text use the Stephanus numbers, which appear in the margins of many
 translations of Plato’s works.)
-
-
-
-
  Secondary Literature
-
-
-
-
 Bencivenga, Ermanno, 2000, 
 Hegel’s Dialectical
 Logic
 , New York: Oxford University Press.
-
-
 Berto, Francesco, 2007, “Hegel’s Dialectics as a
 Semantic Theory: An Analytic Reading”, 
 European Journal of
 Philosophy
 , 15(1): 19–39.
-
-
 Burbidge, John, 1981, 
 On Hegel’s Logic: Fragments of a
 Commentary
 , Atlantic Highlands, NJ: Humanities Press.
-
-
 Düsing, Klaus, 2010, “Ontology and Dialectic in
 Hegel’s Thought”, translated by Andrés Colapinto,
 in 
 The Dimensions of Hegel’s Dialectic
 , Nectarios G.
 Limmnatis (ed.), London: Continuum, pp. 97–122.
-
-
 Findlay, J.N., 1962, 
 Hegel: A Re-Examination
 , New York:
 Collier Books.
-
-
 –––, 1966, Review of 
 Hegel:
 Reinterpretation, Texts, and Commentary
 , by Walter Kaufmann.
-
 The Philosophical Quarterly
 , 16(65): 366–68.
-
-
 Forster, Michael, 1993, “Hegel’s Dialectical
 Method”, in 
 The Cambridge Companion to Hegel
 , Frederick
 C. Beiser (ed.), Cambridge: Cambridge University Press, pp.
 130–170.
-
-
 Fritzman, J.M., 2014, 
 Hegel
 , Cambridge: Polity
 Press.
-
-
 Harris, Errol E., 1983, 
 An Interpretation of the Logic of
 Hegel
 , Lanham, MD: University Press of America.
-
-
 Harris, H.S. (Henry Silton), 1997, 
 Hegel’s Ladder
-
 (in two volumes: vol. I, 
 The Pilgrimage of Reason
 , and vol.
 II, 
 The Odyssey of Spirit
 ), Indianapolis, IN: Hackett).
-
-
 Hyppolite, Jean, 1974, 
 Genesis and Structure of Hegel’s
 “Phenomenology of Spirit
 ”, Evanston, IL: Northwestern
 University Press.
-
-
 Inoue, Kazumi, 2014, “Dialectical Contradictions and
 Classical Formal Logic”, 
 International Studies in the
 Philosophy of Science
 , 28(2), 113–132.
-
-
 Jaśkowski, Stanislaw, 1999 [1969], “A Propositional
 Calculus for Inconsistent Deductive Systems”, translated by
 Olgierd Wojtasiewicz and A. Pietruszczak, 
@@ -2771,26 +2134,18 @@ Philosophy
 with some changes, of a 1969 translation by Wojtasiewicz entitled
 “Propositional Calculus for Contradictory Deductive Systems
 (Communicated at the Meeting of March 19, 1948)”, published in
-
 Studia Logica
 , 24, 143–160.)
-
-
 Kaufmann, Walter Arnold, 1965, 
 Hegel: Reinterpretation, Texts,
 and Commentary
 , Garden City, NY: Doubleday and Company Inc.
-
-
 –––, 1966, 
 A Reinterpretation
 , Garden
 City, NY: Anchor Books. (This is a republication of the first part of
-
 Hegel: Reinterpretation, Texts, and Commentary
 .)
-
-
 –––, 1976 [1972], “The Hegel Myth and its
 Method”, in 
 Hegel: A Collection of Critical Essays
@@ -2798,8 +2153,6 @@ Hegel: A Collection of Critical Essays
 Alasdair MacIntyre (ed.), Notre Dame, IN: University of Notre Dame
 Press: 21–60. (This is a republication of the 1972 Anchor
 Books/Doubleday edition.)
-
-
 Kosok, Michael, 1972, “The Formalization of Hegel’s
 Dialectical Logic: Its Formal Structure, Logical Interpretation and
 Intuitive Foundation”, in 
@@ -2807,79 +2160,55 @@ Hegel: A Collection of Critical
 Essays
 , Alisdair MacIntyre (ed.), Notre Dame, IN: University of
 Notre Dame Press: 237–87.
-
-
 Lauer, Quentin, 1976, 
 A Reading of Hegel’s
 “Phenomenology of Spirit”
 , New York: Fordham
 University Press.
-
-
 Margolis, Joseph, 2010, “The Greening of Hegel’s
 Dialectical Logic”, in 
 The Dimensions of Hegel’s
 Dialectic
 , Nectarios G. Limmnatis (ed.), London: Continuum, pp.
 193–215.
-
-
 Maybee, Julie E., 2009, 
 Picturing Hegel: An Illustrated Guide
 to Hegel’s “Encyclopaedia Logic”
 , Lanham, MD:
 Lexington Books.
-
-
 McTaggart, John McTaggart Ellis, 1964 [1910], 
 A Commentary of
 Hegel’s Logic
 , New York: Russell and Russell Inc. (This
 edition is a reissue of McTaggart’s book, which was first
 published in 1910.)
-
-
 Mueller, Gustav, 1958, “The Hegel Legend of
 ‘Synthesis-Antithesis-Thesis’”, 
 Journal of the
 History of Ideas
 , 19(3): 411–14.
-
-
 Mure, G.R.G., 1950, 
 A Study of Hegel’s Logic
 ,
 Oxford: Oxford University Press.
-
-
 Pinkard, Terry, 1988, 
 Hegel’s Dialectic: The Explanation
 of a Possibility
 , Philadelphia: Temple University Press.
-
-
 Priest, Graham, 1985, “Inconsistencies in Motion”,
-
 American Philosophical Quarterly
 , 22(4): 339–346.
-
-
 –––, 1989, “Dialectic and
 Dialetheic”, 
 Science and Society
 , 53(4):
 388–415.
-
-
 –––, 1997 [2006], 
 In Contradiction: A Study
 of the Transconsistent
 , expanded edition, Oxford: Oxford
 University Press; first edition, Martinus Nijhoff, 1997.
-
-
 Popper, Karl R., 1940, “What is Dialectic?”,
-
 Mind
 , 49(196): 403–426. (This article was reprinted,
 with some changes, in two different editions of 
@@ -2887,232 +2216,111 @@ Conjectures and
 Refutations: The Growth of Scientific Knowledge
 , listed
 below.)
-
-
 –––, 1962, 
 Conjectures and Refutations: The
 Growth of Scientific Knowledge
 , New York: Basic Books.
-
-
 –––, 2002, 
 Conjectures and Refutations: The
 Growth of Scientific Knowledge
 , second edition, London: Routledge
 Classics.
-
-
 –––, 2013, 
 The Open Society and its
 Enemies
 , Princeton: Princeton University Press. (This is a
 one-volume republication of the original, two-volume edition first
 published by Princeton University Press in 1945.)
-
-
 Rosen, Michael, 1982, 
 Hegel’s Dialectic and its
 Criticism
 , Cambridge: Cambridge University Press.
-
-
 Rosen, Stanley, 2014, 
 The Idea of Hegel’s “Science
 of Logic”
 , Chicago: University of Chicago Press.
-
-
 Singer, Peter, 1983, 
 Hegel
 , Oxford: Oxford University
 Press.
-
-
 Solomon, Robert C., 1983, 
 In the Spirit of Hegel: A Study of
 G.W.F. Hegel’s “Phenomenology of Spirit”
 , New
 York: Oxford University Press.
-
-
 Stace, W.T., 1955 [1924], 
 The Philosophy of Hegel: A
 Systematic Exposition
 , New York: Dover Publications. (This
 edition is a reprint of the first edition, published in 1924.)
-
-
 Stewart, Jon, 1996, “Hegel’s Doctrine of Determinate
 Negation: An Example from ‘Sense-certainty’ and
 ‘Perception’”, 
 Idealistic Studies
 , 26(1):
 57–78.
-
-
 –––, 2000, 
 The Unity of Hegel’s
 “Phenomenology of Spirit”: A Systematic
 Interpretation
 , Evanston, IL: Northwestern University Press.
-
-
 Taylor, Charles, 1975, 
 Hegel
 , Cambridge: Cambridge
 University Press.
-
-
 Wandschneider, Dieter, 2010, “Dialectic as the
 ‘Self-Fulfillment’ of Logic”, translated by Anthony
 Jensen, in 
 The Dimensions of Hegel’s Dialectic
 ,
 Nectarios G. Limmnatis (ed.), London: Continuum, pp. 31–54.
-
-
 Westphal, Kenneth R., 2003, 
 Hegel’s Epistemology: A
 Philosophical Introduction to the “Phenomenology of
 Spirit”
 , Indianapolis, IN: Hackett Publishing Company.
-
-
 Winfield, Richard Dien, 1990, “The Method of Hegel’s
-
 Science of Logic
 ”, in 
 Essays on Hegel’s
 Logic
 , George di Giovanni (ed.), Albany, NY: State University of
 New York, pp. 45–57.
-
-
-
-
-
-
-
-
 Academic Tools
-
-
-
-
-
-
-
-
-
-
 How to cite this entry
 .
-
-
-
-
-
-
-
-
 Preview the PDF version of this entry
  at the
- 
 Friends of the SEP Society
 .
-
-
-
-
-
-
-
-
 Look up topics and thinkers related to this entry
-
  at the Internet Philosophy Ontology Project (InPhO).
-
-
-
-
-
-
-
-
 Enhanced bibliography for this entry
-
 at 
 PhilPapers
 , with links to its database.
-
-
-
-
-
-
-
-
-
-
-
-
 Other Internet Resources
-
-
-
-
 Hegel on Dialectic
 ,
- 
 Philosophy Bites
  podcast interview with Robert Stern
-
-
 Hegel
 ,
- 
 Philosophy Talks
  preview video, interview notes and recorded
 radio interview with Allen Wood, which includes a discussion of
 Hegel’s dialectics
-
-
-
-
-
-
-
-
 Related Entries
-
-
-
-
 Aristotle
  |
- 
 Aristotle, General Topics: logic
  |
- 
 Fichte, Johann Gottlieb
  |
- 
 Hegel, Georg Wilhelm Friedrich
  |
- 
 Hume, David
  |
- 
 Kant, Immanuel
  |
- 
 Plato
-
-
-
-
-
-
-
-
-
