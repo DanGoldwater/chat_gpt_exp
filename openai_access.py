@@ -63,6 +63,10 @@ def get_prompt(prompt_name: str):
     return str(prompt)
     
 
+def summarise(input):
+    pre_prompt = get_prompt('summarizer')
+    response = get_davinci(pre_prompt=pre_prompt, input_string=input)
+    return get_message_from_response(response)
 
 def get_message_from_response(response):
     return response['choices'][0]['text']

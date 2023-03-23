@@ -1,0 +1,3 @@
+Create a summary of the following text. Keep the summary to 500 words or less. Make it appropriate for a university graduate. Be as clear as possible.
+
+Text to summarise:
