@@ -16,15 +16,22 @@ url = 'https://plato.stanford.edu/entries/hegel-dialectics/'
 with open('data/text_scraped/hegel.txt', 'r') as file:
     text = file.read()
 
+chunks = openai_access.break_into_equal_chunks(text, max_tokens=3000)
+summaries = [openai_access.summarise(c) for c in chunks]
+summary = ' '.join(summaries)
+print(summary)
 
-def iteratively_summarise(text):
-    summary = text
-    for i in range(5):
-      chunks = openai_access.break_into_equal_chunks(text, max_tokens=3000)
-      summaries = [openai_access.summarise(c) for c in chunks]
-      summary = ' '.join(summaries)
+# def iteratively_summarise(text):
+#     summary = text
+#     for i in range(5):
+#       chunks = openai_access.break_into_equal_chunks(text, max_tokens=3000)
+#       summaries = [openai_access.summarise(c) for c in chunks]
+#       summary = ' '.join(summaries)
 
 
+# summary = openai_access.get_and_summarise_text_file('RAP_text.txt')
+
+# print(summary)
 
 # [print(s) for s in summaries]
 

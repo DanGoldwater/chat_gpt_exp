@@ -3,6 +3,7 @@ import tiktoken
 import json
 import pathlib
 import openai
+from scrape import web_scrape
 
 openai.api_key = os.environ.get("OPEN_AI_API_KEY")
 
@@ -76,6 +77,15 @@ def get_model_from_config():
     with open(pathlib.Path('config.json'), 'r') as file:
         config = json.load(file)
     return config
+
+
+def get_and_summarise_text_file(filename:str):
+   filename = pathlib.Path('data/text_scraped') / filename
+   with open(filename, 'r') as file:
+      text = file.read()
+   text = web_scrape.remove_blank_lines(text)
+   text = text.strip()
+   return summarise(text)
 
 
 
